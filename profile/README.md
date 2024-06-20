@@ -2,7 +2,7 @@
 
 Official organization of the Next Generation agency.
 
-Our Website : [https://next-generation.dev](https://next-generation.dev]
+[Our Website](https://next-generation.dev]
 
 ## Founding members
 
