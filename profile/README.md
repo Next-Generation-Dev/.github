@@ -52,14 +52,14 @@ Vous souhaitez rejoindre une équipe dynamique et engagée ? Nous recrutons ! N'
 
 ## 📞 Nous Contacter
 
-Une question ou un projet à démarrer ? Contactez-nous à l’adresse suivante : ([agence.next.generation@gmail.com](agence.next.generation@gmail.com)). Nous sommes à votre écoute et prêts à vous accompagner dans la réalisation de votre projet digital.
+Une question ou un projet à démarrer ? Contactez-nous à l’adresse suivante : **agence.next.generation@gmail.com**. Nous sommes à votre écoute et prêts à vous accompagner dans la réalisation de votre projet digital.
 
 ## 🔗 Liens Utiles
 
-- [LinkedIn](https://www.linkedin.com/company/next-generation-digital)
-- [Nos Réalisations](https://next-generation.dev/realisations)
-- [Tarifs](https://next-generation.dev/tarifs)
-- [Contactez-nous](https://next-generation.dev/contact)
+- [LinkedIn](https://www.linkedin.com/company/next-generation-dev/)
+- [Nos Réalisations](https://next-generation.dev/#nos-realisations)
+- [Tarifs](https://next-generation.dev/#tarifs)
+- [Contactez-nous](https://next-generation.dev/#formulaire)
 
 ---
 
